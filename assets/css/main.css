@@ -3285,3 +3285,11 @@ input, select, textarea {
 			}
 
 	}
+
+	.removeBullet {
+		list-style: none;
+	}
+
+	.htmlImg {
+		list-style-image: url('../../devicon/icons/html5/html5-original.svg');
+	}
