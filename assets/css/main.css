@@ -3291,5 +3291,5 @@ input, select, textarea {
 	}
 
 	.htmlImg {
-		list-style-image: url('../../devicon/icons/html5/html5-original.svg');
+		list-style-image: url(../../devicon/icons/html5/html5-original.svg);
 	}
