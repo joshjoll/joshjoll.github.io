@@ -3286,7 +3286,7 @@ input, select, textarea {
 
 	}
 
-	.htmlImg > li:before{
+	.htmlImg {
   content:"#" counter(liNum);
   font-size:50%;
   height:2em; width:2em; /* adjust for smaller font */
