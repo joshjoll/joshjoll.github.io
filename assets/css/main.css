@@ -3302,3 +3302,9 @@ input, select, textarea {
 		width: 2.5em;
 		height: 2.5em;
 	}
+
+	.devicon-git-plain {
+  max-width: 2em;
+}
+
+/* if you want to change the original color */
