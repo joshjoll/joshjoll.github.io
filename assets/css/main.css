@@ -3289,3 +3289,16 @@ input, select, textarea {
 	.htmlImg {
 		list-style-type: none;
 	}
+
+	.liCenter {
+		display: inline-block;
+		height: 20px;
+    line-height: 20px;
+	}
+
+	.devicon {
+		vertical-align: middle;
+		padding-right: 8px;
+		width: 2.5em;
+		height: 2.5em;
+	}
