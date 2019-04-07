@@ -3286,7 +3286,7 @@ input, select, textarea {
 
 	}
 
-	.htmlImg ul:nth-child(1){
+	.htmlImg {
 		list-style-type: none;
 		list-style-image: url(../../devicon/icons/html5/html5-original.svg);
 	}
