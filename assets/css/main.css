@@ -3287,10 +3287,5 @@ input, select, textarea {
 	}
 
 	.htmlImg {
-  content:"#" counter(liNum);
-  font-size:50%;
-  height:2em; width:2em; /* adjust for smaller font */
-  line-height:1.75em;
-  color:goldenrod;
-  text-shadow:brown -0.1em -0.1em;
-  background-image:url("https://image.flaticon.com/icons/svg/1216/1216733.svg");
+		list-style-image: url(../../devicon/icons/html5/html5-original.svg);
+	}
