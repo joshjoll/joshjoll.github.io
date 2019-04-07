@@ -3299,12 +3299,12 @@ input, select, textarea {
 	.devicon {
 		vertical-align: middle;
 		padding-right: 8px;
-		width: 2.5em;
-		height: 2.5em;
+		width: 4em;
+		height: 4em;
+		max-width: 2em;
 	}
 
 	.devicon-git-plain {
-  max-width: 2em;
 }
 
 /* if you want to change the original color */
