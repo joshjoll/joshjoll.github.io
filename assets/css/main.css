@@ -3318,7 +3318,7 @@ input, select, textarea {
 		object-fit: contain;
 	}
 
-	#resume {
+	.resume {
 		height: 19.5px;
 		vertical-align: middle;
 		margin-bottom: 1px;
