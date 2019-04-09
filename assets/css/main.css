@@ -2711,12 +2711,12 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 3em;
+			padding: 1em 3em;
 		}
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 2.25em auto;
+				margin: 0 auto .5em auto;
 				width: 8em;
 			}
 
@@ -2736,6 +2736,8 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
+			padding-top: 10px;
+			padding-bottom: 10px;
 			bottom: 0;
 			left: 0;
 			padding: 2em;
@@ -2866,7 +2868,7 @@ input, select, textarea {
 				}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 10px 1.5em;
 				}
 
 		/* Wrapper */
@@ -3157,7 +3159,7 @@ input, select, textarea {
 			}
 
 				#header > header {
-					padding: 2em;
+					padding: 1em 2em;
 				}
 
 					#header > header .avatar {
@@ -3314,6 +3316,12 @@ input, select, textarea {
 	.projectImg {
 		height: 200px;
 		object-fit: contain;
+	}
+
+	#resume {
+		height: 19.5px;
+		vertical-align: middle;
+		margin-bottom: 1px;
 	}
 
 	.devicon-git-plain {
